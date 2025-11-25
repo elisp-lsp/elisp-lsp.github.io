@@ -1,2 +1,3 @@
-# elisp-lsp.github.io
+# elisp-lsp
+
 Landing page for Elisp LSP
